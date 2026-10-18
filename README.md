@@ -35,26 +35,48 @@ The project focuses on understanding and implementing the key General Ledger con
 
 ## Topics Covered
 
-- Enterprise Structure
-- Chart of Accounts
-- Value Sets
-- Accounting Flexfield
-- Ledger Setup
-- Legal Entities
-- Business Units
-- Accounting Calendar
-- Accounting Periods
-- Journal Sources
-- Journal Categories
-- Journal Entry
-- Journal Posting
-- AutoPost
-- AutoReverse
-- Accounting and Reporting Sequences
-- Trial Balance
-- General Ledger Reports
-- Security and Roles
+- Create User
+- Currancy
+- Calendar
+- Chart Of Accounts
+- Accounting Basis
+- Manage Chart of Accounts Value Sets
+- Manage Chart of Accounts Structures
+- Manage Chart of Accounts Structure Instances
+- Manage Chart of Accounts Value Set Values
+- Manage Primary Ledger
+- Specify Ledger Option
+- Manage Legal Addresses
+- Manage Legal Entity
+- Assign Legal Entities
+- Assign Balancing Segment Values to Legal Entities
+- Review and Submit Accounting Configuration
+- ADD Role To End USER(Security Console)
+- Manage Data Access Set Data Access for Users
+- Open First Period
 - Rapid Implementation
+- Enter Journal
+- Define Category
+- TO Make DEPT Segment With Default Value
+- Source
+- Post Journals
+- Copy Journal
+- Delete (Unposted or Error Journals)
+- Reverse
+- Trial Balance Report
+- Auto Post Criteria Set
+- Auto Reverse Criteria Set
+- Sequances
+- Create Journal With Spread Sheet
+- Suspence Account
+- Cross Validation Rule
+- Budget
+- Foreign Currencies
+- Revaluation
+- Inquiry Balances
+- Translation(Balance)
+- Intercompany
+- Translation(JOURNAL)
 
 ## Project Structure
 
